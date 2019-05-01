@@ -6,4 +6,4 @@ function() {
         links[i].target = '_blank';
       }
     }
-  })();
+  }();
